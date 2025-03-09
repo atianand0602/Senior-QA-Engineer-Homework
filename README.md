@@ -6,6 +6,7 @@ This project(Sr_QA_Eng_HomeWork) is my submission for the QA Engineer Homework. 
 ***Project Structure***
 \Sr_QA_Eng_HomeWork\src\Program\AlphanumericSort.java(Sorting Implementation) 
 \Sr_QA_Eng_HomeWork\src\TestPlan\Test Plan for Action Camera\Test Plan for Action Camera.xlsx
+
 Prerequisites
 •Java 8 or later
 
@@ -29,7 +30,12 @@ The test plan is included as an Excel file (\Sr_QA_Eng_HomeWork\src\TestPlan\Tes
 
 
 **Design Decisions & Trade-offs Test Plan Format:**
-Excel for easy sorting & tracking Trade-off: Could have used a Markdown table, but Excel allows better filtering.
-Alphanumeric Sort Approach: Uses ArrayList for categorization and Collections.sort() for sorting. Trade-off: A custom comparator could improve efficiency but would increase complexity.
+Excel for easy sorting & tracking
+
+Trade-off: Could have used a Markdown table, but Excel allows better filtering.
+
+Alphanumeric Sort Approach: Uses ArrayList for categorization and Collections.sort() for sorting. 
+
+Trade-off: A custom comparator could improve efficiency but would increase complexity.
 
 
